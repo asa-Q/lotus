@@ -17,6 +17,11 @@
 Lotus is an implementation of the Filecoin Distributed Storage Network. For more details about Filecoin, check out the [Filecoin Spec](https://spec.filecoin.io).
 
 ## Building & Documentation
+sudo apt-get remove golang-1.13
+
+然后安装最新版的
+
+sudo apt-get install golang-1.14
 
 For instructions on how to build, install and setup lotus, please visit [https://docs.filecoin.io/get-started/lotus](https://docs.filecoin.io/get-started/lotus/).
 
