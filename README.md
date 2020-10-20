@@ -1,4 +1,4 @@
-
+go env -w GOPROXY=https://goproxy.cn,direct
 sudo ln -s /usr/lib/x86_64-linux-gnu/libOpenCL.so.1.0.0 /usr/lib/libOpenCL.so
 <p align="center">
   <a href="https://docs.filecoin.io/" title="Filecoin Docs">
